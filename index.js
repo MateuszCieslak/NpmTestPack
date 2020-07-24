@@ -1,0 +1,1 @@
+console.log('%c Npm test pack', 'color: red; background: yellow;');
